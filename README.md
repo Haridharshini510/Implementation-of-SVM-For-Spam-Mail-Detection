@@ -68,23 +68,32 @@ print(cl)
 ## Output:
 ## data
 <img width="950" height="625" alt="Screenshot 2025-11-08 213533" src="https://github.com/user-attachments/assets/2e4935bc-48c9-4a15-9e43-0103487a4ac9" />
+
 ## data.shape()
 <img width="402" height="65" alt="Screenshot 2025-11-08 213623" src="https://github.com/user-attachments/assets/fd00d68b-5420-4884-b56e-ee8ef037381d" />
+
 ## x.shape()
 <img width="295" height="68" alt="Screenshot 2025-11-08 213657" src="https://github.com/user-attachments/assets/54ce976f-025e-4ea5-8bd0-d96585d4d1d3" />
+
 ## y.shape()
 <img width="191" height="61" alt="Screenshot 2025-11-08 213713" src="https://github.com/user-attachments/assets/b0a65330-f6d2-4708-9697-c3198cfd9870" />
+
 ## x_train
 <img width="1639" height="254" alt="Screenshot 2025-11-08 213841" src="https://github.com/user-attachments/assets/db590ddc-2ae1-45e4-bfd0-9674636ebd17" />
+
 ## x_train.shape()
 <img width="200" height="61" alt="Screenshot 2025-11-08 213750" src="https://github.com/user-attachments/assets/2abc70a0-72af-4cf3-a449-29dbc8eaee6c" />
+
 ## y_pred
 <img width="644" height="73" alt="Screenshot 2025-11-08 213940" src="https://github.com/user-attachments/assets/1e6bfc9b-91da-4df2-b4f0-41816982d607" />
-## acc (accuracy)
+
+## acc(accuracy)
 <img width="275" height="56" alt="Screenshot 2025-11-08 214020" src="https://github.com/user-attachments/assets/825c600e-5a6d-4a2c-88d3-99d764c2d859" />
-## con (confusion matrix)
+
+## con(confusion matrix)
 <img width="187" height="74" alt="Screenshot 2025-11-08 214059" src="https://github.com/user-attachments/assets/1113cd05-9cdf-43c3-bd9a-236397b05a2f" />
-## cl (classification report)
+
+## cl(classification report)
 <img width="622" height="296" alt="Screenshot 2025-11-08 214127" src="https://github.com/user-attachments/assets/7b6da892-8374-42d0-a964-dab67a024432" />
 
 
